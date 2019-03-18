@@ -1,0 +1,16 @@
+.dataTable{
+    width: 100%;
+}
+
+.dataTable thead tr{
+    height: 30px;
+}
+
+#thOperaciones{
+    text-align: center;
+}
+
+.tdButton{
+    text-align: center;
+    height: 42px;
+}

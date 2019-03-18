@@ -1,0 +1,15 @@
+<div id="myModalD" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <i align="right">{{ $_ENV['APP_NAME'] }}</i>
+            </div>
+            <div class="modal-body">
+                @yield('contentModald')
+            </div>
+            <div class="modal-footer">
+                @yield('footerModald')
+            </div>
+        </div>
+    </div>
+</div>

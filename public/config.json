@@ -1,0 +1,76 @@
+{	
+	"dirs" : {
+		"css": "css/",
+		"js": "js/"
+	},
+	"jsComun": [
+		"dist/jquery.min.js",
+		"dist/jquery.dataTables.min.js",
+		"dist/bootstrap.min.js",
+		"dist/dataTables.bootstrap.min.js",
+		"dist/dataTables.buttons.min.js",
+		"dist/buttons.flash.min.js",
+		"dist/bootstrap-notify.min.js",	
+		"dist/jquery.inputmask.js",
+		"dist/jquery.inputmask.bundle.min.js",
+		"dist/jquery.inputmask.date.extensions.js",
+		"dist/jquery.inputmask.extensions.js",
+		"dist/adminlte.min.js",
+		"dist/netLib.js",
+		"dist/NetFunctions.js"
+	],
+	"jsAdmin":[
+		"dist/chart2.8.0.js",
+		"jsAdmin/main.js"		
+	],
+	"jsPerfil":[
+		"jsPerfil/Init.js"
+	],
+	"jsUbch":[
+		"jsUbch/main.js"
+	],
+	"jsComunidad":[		
+		"jsComunidad/mainInsert.js",
+		"jsComunidad/mainUpdate.js",
+		"jsComunidad/Init.js"
+	],
+	"jsCalle":[		
+		"jsCalle/mainInsert.js",
+		"jsCalle/mainUpdate.js",
+		"jsCalle/Init.js"
+	],
+	"jsLogin":[		
+
+	],
+	"jsFamilia":[		
+		"jsFamilia/mainInsert.js",
+		"jsFamilia/mainUpdate.js",
+		"jsFamilia/Init.js"
+	],
+	"cssComun": [
+		"app_.css",
+		"netInit.min.css",
+		"bootstrap.min.css",
+		"font-awesome.min.css",
+		"ionicons.min.css",
+		"adminlte.min.css",
+		"_all-skins.min.css",
+		"dataTables.bootstrap.min.css",
+		"bodyStyle.css",
+		"dataTableStyle.css",
+		"../fonts/SourceSansPro.css"
+	],
+	"frameworks":[
+		"jquery",
+		"bootstrap",
+		"font-awesome",
+		"ionicons",
+		"AdminLTE",
+		"_all-skins",
+		"dataTables",
+		"bootstrap-notify",
+		"adminlte",
+		"SourceSansPro",
+		"chart"
+	]
+}

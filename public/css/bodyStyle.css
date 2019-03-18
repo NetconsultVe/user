@@ -1,0 +1,23 @@
+label{
+   /* margin-top: 7px;  */
+}
+
+.addd{
+    margin: auto;
+}
+
+.lineModal{
+    border-top: 1px solid #e5e5e5;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+select{
+    margin-bottom: 7px;
+}
+
+.box{
+    border-top: 0px;
+    margin-top: 20px;
+}

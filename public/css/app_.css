@@ -1,0 +1,170 @@
+.footer{
+    position: absolute;
+    bottom: 0px;
+    margin: 20px;
+    width: 96%;
+}
+
+.body{
+background-color: #734222;
+z-index: -1;
+}
+
+.pull-right a{
+    color: #cc9900;
+}
+
+.navbar{
+    margin-bottom: 100px;
+}
+
+.panel{
+    margin-top: 30px;
+}
+
+.btn.btn-flat {
+    margin-right: 5px;
+}
+
+#txt_NewComunidad {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 70% !important;
+    margin-bottom: 0;
+    line-height: 2px;
+    height: 34px !important;
+    margin-right: 10px;
+}
+
+.thCasaxCasa{
+    font-size: 14px;
+    writing-mode: vertical-lr;
+    white-space: pre;
+    border: 1px solid rgba(94, 88, 88, 0.25);
+    text-align: center;
+}
+
+#tableCasaxCasa {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#tableCasaxCasa td{
+    text-align: center;
+    border: 1px solid rgba(94, 88, 88, 0.25);
+}
+
+.form-group{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.form-group input[type="checkbox"] {
+    display: none;
+}
+
+.form-group input[type="checkbox"] + .btn-group > label span {
+    width: 20px;
+}
+
+.form-group input[type="checkbox"] + .btn-group > label span:first-child {
+    display: none;
+}
+.form-group input[type="checkbox"] + .btn-group > label span:last-child {
+    display: inline-block;   
+}
+
+.form-group input[type="checkbox"]:checked + .btn-group > label span:first-child {
+    display: inline-block;
+}
+.form-group input[type="checkbox"]:checked + .btn-group > label span:last-child {
+    display: none;   
+}
+
+label.btn.btn-default.active{
+    width: 180px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.divEncuesta{
+   text-align: center;
+}
+
+#div-imgLogin{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+#img-imgLogin{
+    height: 100%;
+}
+
+#div-formLogin{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-weight: normal !important;
+    border: 0px;
+}
+
+#div-formLogin label{
+    color: white;
+    font-weight: normal !important;
+}
+
+#div-formLogin a{
+    color: white;
+    font-weight: normal !important;
+}
+
+#div-formLogin .btn-primary{
+    background-color: #cc9900;
+    border-color: #cc9900
+}
+
+#div-formLogin button:hover{
+    background-color: #cc9900;
+    border-color: #cc9900
+}
+
+b, strong{
+    font-weight: normal !important;
+}
+
+#app nav{
+    background-color: transparent;
+    border: 0px;  
+}
+
+#app nav a{
+    color: white;  
+}
+
+.main-footer{
+    color: white;
+}
+
+@media (min-width: 576px){
+    #div-imgLogin{
+        width: 50%;
+    }
+}
+
+.img-circle {
+    border-radius: 0% !important;
+    margin-bottom: 15px;
+}
+
+.info-box{
+    margin-top: 15px;
+}
+
+.info-box-number {
+    font-weight: normal !important;
+    font-size: 30px !important;
+}
+
+.info-box-number small{
+    font-size: 20px !important;
+}
